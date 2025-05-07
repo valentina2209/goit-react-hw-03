@@ -1,0 +1,19 @@
+.card {
+    padding: 12px 16px;
+    border-radius: 8px;
+    background-color: #f8f0fa;
+    border: 1px solid #d8cde5;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+  }
+  
+  .name {
+    font-weight: 600;
+    font-size: 1.1em;
+    margin: 0;
+  }
+  
+  .number {
+    font-size: 0.95em;
+    color: #555;
+    margin: 4px 0 0;
+  }
